@@ -1,0 +1,25 @@
+{
+  "name": "address-lookup-proxy-node",
+  "version": "0.0.1",
+  "description": "RESTful address lookup proxy demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Igor-G-F/address-lookup-proxy.git"
+  },
+  "author": "Igor Grzegorz Flakiewicz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Igor-G-F/address-lookup-proxy/issues"
+  },
+  "homepage": "https://github.com/Igor-G-F/address-lookup-proxy#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
